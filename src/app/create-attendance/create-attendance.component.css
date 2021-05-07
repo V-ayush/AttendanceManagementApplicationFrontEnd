@@ -1,0 +1,35 @@
+h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+form{
+    width: 40%;
+    border: lavender;
+}
+
+.s1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+.d1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+#currentDate:hover,#status:hover{
+    border-color: rgb(110, 218, 3);
+    border-width: 2px;
+
+}
+
+button{
+    margin-top: 20px;
+}

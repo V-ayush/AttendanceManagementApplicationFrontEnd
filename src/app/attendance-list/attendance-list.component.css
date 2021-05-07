@@ -1,0 +1,16 @@
+h2{
+    margin-top: 20px;
+}
+
+.table-striped{
+    margin-top:20px;
+}
+
+th{
+    font-size: 20px;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
